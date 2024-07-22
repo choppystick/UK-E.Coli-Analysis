@@ -1,0 +1,152 @@
+﻿Trust Code,Trust Type,PHE Centre,Trust Name,Mar-17,Apr-17,May-17,Jun-17,Jul-17,Aug-17,Sep-17,Oct-17,Nov-17,Dec-17,Jan-18,Feb-18,Mar-18
+REM,FT,North West,Aintree University Hospital,26,23,23,19,31,28,26,25,26,21,24,22,25
+RCF,FT,Yorkshire and Humber,Airedale,13,12,16,13,14,12,5,16,12,8,17,10,20
+RBS,FT,North West,Alder Hey Children's,5,0,1,2,2,4,1,1,2,1,4,3,1
+RTK,FT,South East,Ashford & St Peter's Hospitals,17,16,21,28,28,28,16,28,30,24,15,15,13
+RF4,--,London,"Barking, Havering & Redbridge University Hospitals",40,33,42,43,39,40,40,45,42,34,45,44,42
+RFF,FT,Yorkshire and Humber,Barnsley Hospital,16,12,11,15,17,13,17,20,16,16,13,17,14
+R1H,--,London,Barts Health,73,54,69,55,56,64,56,52,53,66,47,45,68
+RDD,FT,East of England,Basildon & Thurrock University Hospitals,21,18,22,19,16,23,33,30,23,25,13,21,22
+RC1,--,East of England,Bedford Hospital,16,12,12,12,13,15,11,18,11,14,13,17,18
+RQ3,FT,West Midlands,Birmingham Women's and Children's1,7,2,8,3,6,4,1,7,2,8,1,1,2
+RXL,FT,North West,Blackpool Teaching Hospitals,28,21,21,22,32,19,24,22,28,24,22,18,17
+RMC,FT,North West,Bolton,24,24,21,25,32,26,22,23,24,26,25,22,20
+RAE,FT,Yorkshire and Humber,Bradford Teaching Hospitals,16,14,15,17,21,23,28,20,23,24,20,26,34
+RXH,--,South East,Brighton & Sussex University Hospitals,22,22,20,34,37,33,26,21,26,23,22,18,30
+RXQ,--,South East,Buckinghamshire Healthcare,18,17,14,19,18,25,26,21,24,16,16,15,19
+RJF,FT,West Midlands,Burton Hospitals,13,8,11,14,8,7,10,7,8,15,4,15,10
+RWY,FT,Yorkshire and Humber,Calderdale & Huddersfield,21,21,25,29,38,29,37,27,31,21,25,22,25
+RGT,FT,East of England,Cambridge University Hospitals,23,32,22,33,32,35,30,31,30,26,32,19,28
+RQM,FT,London,Chelsea & Westminster Hospital,28,22,28,21,23,44,27,31,36,31,28,23,31
+RFS,FT,East Midlands,Chesterfield Royal Hospital,15,26,26,22,31,13,30,28,22,21,26,19,21
+RLN,FT,North East,City Hospitals Sunderland,27,24,22,23,29,33,27,24,25,26,28,26,23
+RDE,FT,East of England,Colchester Hospital University,26,16,25,27,26,38,28,28,27,16,19,24,26
+RJR,FT,North West,Countess of Chester Hospital,14,17,13,11,14,19,13,24,15,12,20,16,13
+RXP,FT,North East,County Durham & Darlington,21,28,41,32,33,37,25,25,34,25,30,12,35
+RJ6,--,London,Croydon Health Services,24,15,10,21,34,11,25,22,21,21,13,19,15
+RN7,--,South East,Dartford & Gravesham,14,23,24,20,32,20,23,18,25,18,17,18,25
+RTG,FT,East Midlands,Derby Teaching Hospitals,37,37,32,37,40,44,31,35,42,62,38,28,45
+RP5,FT,Yorkshire and Humber,Doncaster & Bassetlaw Hospitals,22,19,36,23,28,31,32,20,23,31,27,30,22
+RBD,FT,South West,Dorset County Hospital,13,16,12,8,10,12,6,16,10,12,18,10,7
+RWH,--,East of England,East & North Hertfordshire,17,23,27,18,24,30,29,24,14,10,21,32,17
+RJN,--,North West,East Cheshire,13,14,13,12,10,16,15,11,12,7,10,11,8
+RVV,FT,South East,East Kent Hospitals University,61,47,57,47,48,52,56,46,55,43,49,34,51
+RXR,--,North West,East Lancashire Hospitals,37,44,42,39,33,37,28,27,30,31,21,23,38
+RXC,--,South East,East Sussex Healthcare,33,33,32,32,39,41,35,29,32,30,28,17,29
+RVR,--,London,Epsom & St Helier University Hospitals,17,18,18,23,23,29,15,22,20,24,25,28,20
+RDU,FT,South East,Frimley Health,51,62,53,57,72,67,57,72,63,58,64,34,54
+RR7,FT,North East,Gateshead Health,18,17,29,15,20,22,23,21,18,23,18,14,19
+RLT,--,West Midlands,George Eliot Hospital,5,18,8,12,8,10,9,12,7,12,7,13,12
+RTE,FT,South West,Gloucestershire Hospitals,27,27,15,20,17,24,16,27,28,25,23,18,18
+RP4,FT,London,Great Ormond Street Hospital for Children,1,3,1,2,2,1,0,3,0,2,0,1,3
+RN3,FT,South West,Great Western Hospitals,18,19,19,23,17,24,17,16,16,19,16,16,14
+RJ1,FT,London,Guy's & St. Thomas',35,17,33,24,23,35,22,24,23,24,17,25,15
+RN5,FT,South East,Hampshire Hospitals,24,20,10,23,21,25,23,24,21,27,16,15,18
+RCD,FT,Yorkshire and Humber,Harrogate & District,13,10,12,13,16,18,15,11,3,7,15,14,12
+RR1,FT,West Midlands,Heart of England,44,42,56,53,59,47,54,50,64,43,50,50,76
+RQX,FT,London,Homerton University Hospital,7,13,10,9,10,10,9,16,6,12,4,7,8
+RWA,--,Yorkshire and Humber,Hull & East Yorkshire Hospitals,37,29,31,43,33,43,42,33,37,36,41,36,26
+RYJ,--,London,Imperial College Healthcare,25,36,25,34,28,34,32,40,32,33,22,23,20
+RGQ,--,East of England,Ipswich Hospital,21,27,21,23,12,17,13,14,22,18,5,8,22
+R1F,--,South East,Isle of Wight,11,9,10,11,8,12,19,7,13,16,6,13,8
+RGP,FT,East of England,James Paget University Hospitals,10,19,23,20,11,18,16,27,24,12,22,19,12
+RNQ,FT,East Midlands,Kettering General Hospital,18,23,20,20,23,28,22,15,15,15,28,32,24
+RJZ,FT,London,King's College Hospital,40,40,41,39,34,41,35,30,41,28,35,33,39
+RAX,FT,London,Kingston Hospital,12,14,14,13,13,22,10,14,8,9,9,10,12
+RXN,FT,North West,Lancashire Teaching Hospitals,23,36,26,30,25,36,22,34,25,33,22,23,23
+RR8,--,Yorkshire and Humber,Leeds Teaching Hospitals,63,56,48,45,50,58,51,52,62,54,41,53,52
+RJ2,--,London,Lewisham & Greenwich,37,26,33,38,32,41,26,26,29,30,34,32,33
+RBQ,FT,North West,Liverpool Heart & Chest Hospital,1,1,1,2,0,0,0,0,1,1,1,0,0
+REP,FT,North West,Liverpool Women's,2,1,3,1,1,1,0,0,1,1,0,0,1
+R1K,--,London,London North West Healthcare,41,39,30,49,43,50,52,48,32,40,41,49,50
+RC9,FT,East of England,Luton & Dunstable University Hospital,20,13,12,22,13,23,13,20,15,24,12,14,22
+RWF,--,South East,Maidstone & Tunbridge Wells,41,24,30,31,40,37,33,35,34,33,33,22,33
+R0A,FT,North West,Manchester University2,39,32,40,40,43,41,48,44,36,38,46,40,35
+RPA,FT,South East,Medway,27,23,19,32,26,25,22,27,19,21,23,23,21
+RBT,FT,North West,Mid Cheshire Hospitals,20,19,31,16,24,18,18,15,16,9,16,12,21
+RQ8,--,East of England,Mid Essex Hospital Services,17,16,17,18,21,22,19,18,20,19,16,22,9
+RXF,--,Yorkshire and Humber,Mid Yorkshire Hospitals,32,35,29,32,42,29,44,40,37,28,30,23,37
+RD8,FT,East of England,Milton Keynes University Hospital,18,21,13,12,27,21,23,11,14,15,13,12,13
+RP6,FT,London,Moorfields Eye Hospital,0,0,0,0,0,0,0,0,0,0,0,0,0
+RM1,FT,East of England,Norfolk & Norwich University Hospitals,36,29,24,36,27,29,43,35,42,32,19,26,28
+RVJ,--,South West,North Bristol,17,31,23,27,25,26,26,25,23,30,14,22,25
+RNL,--,North West,North Cumbria University Hospitals,22,18,23,20,18,34,17,16,23,21,20,15,16
+RAP,--,London,North Middlesex University Hospital,20,21,37,24,21,31,20,32,19,14,20,15,23
+RVW,FT,North East,North Tees & Hartlepool,33,26,21,36,31,39,27,26,34,26,30,28,23
+RGN,FT,East of England,North West Anglia3,26,25,25,25,36,37,29,38,26,25,28,27,29
+RNS,--,East Midlands,Northampton General Hospital,22,19,29,21,19,14,21,26,17,18,18,17,17
+RBZ,--,South West,Northern Devon Healthcare,11,10,15,13,16,17,16,19,14,16,8,9,7
+RJL,FT,Yorkshire and Humber,Northern Lincolnshire & Goole,24,28,25,28,27,22,26,26,20,16,22,25,21
+RTF,FT,North East,Northumbria Healthcare,33,39,31,38,41,36,29,33,29,37,36,33,36
+RX1,--,East Midlands,Nottingham University Hospitals,64,62,69,68,69,59,49,50,56,48,57,43,55
+RTH,FT,South East,Oxford University Hospitals,41,45,42,33,50,55,56,61,45,34,46,36,38
+RW6,--,North West,Pennine Acute Hospitals,47,45,25,33,43,39,40,44,35,37,38,36,33
+RK9,--,South West,Plymouth Hospitals,29,24,32,25,26,32,33,45,22,25,34,25,30
+RD3,FT,South West,Poole Hospital,17,17,16,16,29,23,25,19,13,18,17,11,18
+RHU,--,South East,Portsmouth Hospitals,28,35,30,36,33,41,24,40,34,28,31,38,34
+RPC,FT,South East,Queen Victoria Hospital,0,0,0,0,0,0,0,0,0,0,0,0,0
+RHW,FT,South East,Royal Berkshire,22,37,27,37,39,44,29,33,19,27,20,27,21
+RT3,FT,London,Royal Brompton & Harefield,1,2,2,1,0,1,2,1,2,0,3,0,1
+REF,--,South West,Royal Cornwall Hospitals,28,15,27,33,28,41,29,27,27,13,26,20,23
+RH8,FT,South West,Royal Devon & Exeter,19,21,29,30,26,19,22,30,24,22,22,10,23
+RAL,FT,London,Royal Free London,37,35,33,36,50,33,43,36,47,39,41,38,47
+RQ6,--,North West,Royal Liverpool & Broadgreen University Hospitals,32,29,35,20,34,20,26,26,29,21,32,23,28
+RAN,--,London,Royal National Orthopaedic Hospital,1,0,0,0,0,0,2,1,1,0,0,1,0
+RGM,FT,East of England,Royal Papworth Hospital,3,0,1,0,2,0,1,2,2,2,1,0,0
+RA2,FT,South East,Royal Surrey County Hospital,17,11,16,14,14,18,15,14,17,9,14,10,14
+RD1,FT,South West,Royal United Hospitals Bath,25,19,18,36,20,30,27,25,24,28,24,22,22
+RM3,FT,North West,Salford Royal,20,23,23,21,18,27,21,25,15,22,19,21,13
+RNZ,FT,South West,Salisbury,7,9,9,10,8,9,9,9,12,8,7,10,9
+RXK,--,West Midlands,Sandwell & West Birmingham Hospitals,20,16,16,14,25,18,22,16,17,16,23,19,17
+RCU,FT,Yorkshire and Humber,Sheffield Children's,2,1,2,2,2,0,1,2,0,0,1,2,0
+RHQ,FT,Yorkshire and Humber,Sheffield Teaching Hospitals,50,42,54,49,58,61,52,68,59,57,54,53,49
+RK5,FT,East Midlands,Sherwood Forest Hospitals,36,20,26,22,29,29,33,31,28,23,23,20,30
+RXW,--,West Midlands,Shrewsbury & Telford Hospital,25,25,19,22,25,31,30,29,31,16,26,27,25
+RTR,FT,North East,South Tees Hospitals,35,44,39,40,39,45,40,52,44,41,32,38,46
+RE9,FT,North East,South Tyneside,14,6,14,6,13,11,12,9,18,6,19,5,13
+RJC,FT,West Midlands,South Warwickshire,11,24,17,13,21,14,17,14,18,16,14,13,13
+RAJ,FT,East of England,Southend University Hospital,17,19,21,23,26,18,25,32,23,22,29,22,20
+RVY,--,North West,Southport & Ormskirk Hospital,12,14,24,16,20,14,19,19,13,21,16,14,25
+RJ7,FT,London,St. George's University Hospitals,32,25,11,22,30,31,21,21,10,18,21,20,12
+RBN,--,North West,St. Helens and Knowsley Hospitals,23,18,26,38,32,29,35,36,29,22,23,32,33
+RWJ,FT,North West,Stockport,12,19,19,21,21,20,22,17,18,30,21,14,20
+RTP,--,South East,Surrey & Sussex Healthcare,29,28,30,37,50,31,23,27,32,32,27,21,26
+RMP,FT,North West,Tameside Hospital,12,23,11,13,17,9,15,7,5,15,14,12,15
+RBA,FT,South West,Taunton & Somerset,21,20,23,22,31,24,28,31,23,29,19,17,25
+RBV,FT,North West,The Christie Hospital,9,7,3,9,8,10,7,10,8,9,4,4,5
+REN,FT,North West,The Clatterbridge Cancer Centre,0,0,0,0,4,1,0,0,4,1,2,1,1
+RNA,FT,West Midlands,The Dudley Group,25,16,27,31,24,15,19,26,19,18,24,23,27
+RAS,FT,London,The Hillingdon Hospitals,18,16,32,15,17,20,14,14,11,9,13,16,17
+RTD,FT,North East,The Newcastle upon Tyne Hospitals,33,31,38,36,30,48,29,35,35,39,35,26,48
+RQW,--,East of England,The Princess Alexandra Hospital,18,13,10,13,11,25,13,15,20,19,15,14,9
+RCX,FT,East of England,The Queen Elizabeth Hospital King's Lynn,21,18,18,20,17,17,18,19,29,18,14,12,13
+RL1,FT,West Midlands,The Robert Jones & Agnes Hunt Orthopaedic Hospital,0,0,0,1,0,0,0,2,0,3,1,0,0
+RFR,FT,Yorkshire and Humber,The Rotherham,13,17,15,14,24,14,15,13,20,10,12,14,10
+RDZ,FT,South West,The Royal Bournemouth & Christchurch Hospitals,30,21,34,32,24,40,24,25,31,21,25,29,24
+RPY,FT,London,The Royal Marsden,7,3,6,5,5,5,3,3,5,5,9,8,6
+RRJ,FT,West Midlands,The Royal Orthopaedic Hospital,0,0,1,1,0,0,0,0,0,0,0,0,0
+RL4,--,West Midlands,The Royal Wolverhampton,28,33,27,31,22,31,26,20,26,32,38,28,21
+RET,FT,North West,The Walton Centre,3,0,3,1,1,0,2,1,1,0,0,3,0
+RKE,--,London,The Whittington Health,7,13,14,11,13,4,11,12,16,9,11,9,8
+RA9,FT,South West,Torbay and South Devon,17,17,17,25,25,22,19,16,16,18,18,14,29
+RWD,--,East Midlands,United Lincolnshire Hospitals,31,33,31,31,35,25,23,37,32,31,33,30,28
+RRV,FT,London,University College London Hospitals,21,18,26,28,22,26,30,24,24,23,26,20,20
+RHM,FT,South East,University Hospital Southampton,26,28,22,14,37,25,27,30,29,25,30,20,28
+RRK,FT,West Midlands,University Hospitals Birmingham,29,37,30,30,26,38,30,34,26,11,30,22,23
+RA7,FT,South West,University Hospitals Bristol,24,23,25,16,24,20,22,16,19,15,19,15,21
+RKB,--,West Midlands,University Hospitals Coventry & Warwickshire,25,22,41,28,24,24,30,22,32,35,24,35,30
+RWE,--,East Midlands,University Hospitals of Leicester,53,47,45,54,52,42,48,45,48,44,50,34,41
+RTX,FT,North West,University Hospitals of Morecambe Bay,20,27,23,30,33,28,27,17,21,24,27,22,30
+RJE,--,West Midlands,University Hospitals of North Midlands,61,39,44,54,55,47,64,62,49,41,41,50,46
+RBK,--,West Midlands,Walsall Healthcare,13,13,12,15,14,13,12,10,12,11,7,18,14
+RWW,FT,North West,Warrington & Halton Hospitals,17,21,16,18,24,16,21,19,17,12,11,14,15
+RWG,--,East of England,West Hertfordshire Hospitals,18,18,14,26,28,24,24,16,23,26,16,30,27
+RGR,FT,East of England,West Suffolk,15,12,11,16,15,11,17,13,19,16,9,11,10
+RYR,FT,South East,Western Sussex Hospitals,40,30,28,27,39,47,31,38,36,25,35,29,33
+RA3,--,South West,Weston Area Health,9,15,6,11,9,8,14,5,8,13,5,5,8
+RBL,FT,North West,Wirral University Teaching Hospital,20,18,21,20,32,26,30,30,26,25,29,17,18
+RWP,--,West Midlands,Worcestershire Acute Hospitals,36,30,31,44,41,35,40,31,26,26,23,16,22
+RRF,FT,North West,"Wrightington, Wigan & Leigh",12,16,20,6,6,9,19,20,10,6,13,6,5
+RLQ,--,West Midlands,Wye Valley,11,7,13,13,15,10,10,12,8,6,9,7,11
+RA4,FT,South West,Yeovil District Hospital,14,15,13,22,17,17,12,12,17,13,13,13,13
+RCB,FT,Yorkshire and Humber,York Teaching Hospital,42,49,44,43,37,50,42,50,49,51,44,36,39
